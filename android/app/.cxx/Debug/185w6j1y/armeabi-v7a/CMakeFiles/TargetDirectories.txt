@@ -1,0 +1,2 @@
+C:/Users/frame/Downloads/pet-accessories/android/app/.cxx/Debug/185w6j1y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/frame/Downloads/pet-accessories/android/app/.cxx/Debug/185w6j1y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

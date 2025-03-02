@@ -1,0 +1,2 @@
+C:/Users/frame/Downloads/pet-accessories/android/app/.cxx/Debug/185w6j1y/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/frame/Downloads/pet-accessories/android/app/.cxx/Debug/185w6j1y/x86_64/CMakeFiles/rebuild_cache.dir

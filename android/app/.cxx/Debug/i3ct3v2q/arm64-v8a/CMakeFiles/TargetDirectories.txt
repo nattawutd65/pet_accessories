@@ -1,0 +1,2 @@
+C:/Users/frame/Downloads/account/android/app/.cxx/Debug/i3ct3v2q/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/frame/Downloads/account/android/app/.cxx/Debug/i3ct3v2q/arm64-v8a/CMakeFiles/rebuild_cache.dir
