@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:account/database/petAccessoryDB.dart';
-import 'package:account/model/petAccessory.dart';
+import 'package:pet_accessories/database/petAccessoryDB.dart';
+import 'package:pet_accessories/model/petAccessory.dart';
 
 class PetAccessoryProvider with ChangeNotifier {
   List<PetAccessory> accessories = [];

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:account/provider/petAccessoryProvider.dart';
-import 'package:account/model/petAccessory.dart';
-import 'package:account/formScreen.dart';
-import 'package:account/editScreen.dart';
+import 'package:pet_accessories/provider/petAccessoryProvider.dart';
+import 'package:pet_accessories/model/petAccessory.dart';
+import 'package:pet_accessories/formScreen.dart';
+import 'package:pet_accessories/editScreen.dart';
 import 'dart:io';
 
 void main() {
